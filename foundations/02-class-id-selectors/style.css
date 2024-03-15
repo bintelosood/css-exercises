@@ -1,0 +1,17 @@
+.odd-number{
+    background-color: hsl(0, 75%, 75%);
+    font-family: Verdana, "DejaVue Sans", sans-serif;
+}
+.cooler{
+    font-size: 24px;
+}
+#tiger{
+    color: hsl(245, 88%, 52%);
+    font-weight: 700;
+    font-size: 36px;
+}
+#lion{
+    background-color: hsl(100, 84%, 45%);
+    font-size: 24px;
+    font-weight: bold; 
+}
