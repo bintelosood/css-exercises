@@ -29,13 +29,6 @@ img {
 max-width: 200px;
 }
 
-/*.text,
-.img { 
-  flex: 1, 1, auto;
-  max-width: 200px;
-  text-align: center;
-}
-
 /* do not edit this footer */
 .footer {
   position: fixed;
