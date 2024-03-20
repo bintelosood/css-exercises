@@ -63,5 +63,5 @@ a {
 ul {
   list-style-type: none;
   display: flex;
-  padding-left: 8px;
+  padding-left: 16px;
 }
